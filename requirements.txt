@@ -1,0 +1,27 @@
+# --- Core UI ---
+streamlit==1.47.0
+python-dotenv
+
+# --- LangChain (MODERN SPLIT) ---
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.80
+langchain-text-splitters==0.3.8
+langchain-pinecone==0.2.13
+langchain-groq==0.3.6
+
+# --- Embeddings & Models ---
+sentence-transformers
+transformers
+torch
+
+# --- Vector DB ---
+pinecone
+
+# --- PDF ---
+pypdf
+
+# --- Utils ---
+numpy
+tqdm
+requests
