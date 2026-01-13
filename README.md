@@ -7,6 +7,8 @@
   Multi‑PDF • Secure • Explainable • Production‑oriented
 </p>
 
+### !! Streamlit Application is now Live - https://docmind-ai-secure-rag-powered-documentintelligence-platform-zo.streamlit.app/
+
 ---
 
 ## 🚀 What is DocMind AI?
